@@ -15,4 +15,4 @@
   ruby 2.0.0p0 (2013-02-24 revision 39474) [x86_64-darwin12.3.0]
 
 ## todo
-rails4 対応
+rails4 対応してみる
