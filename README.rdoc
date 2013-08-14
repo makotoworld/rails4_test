@@ -16,3 +16,4 @@
 
 ## todo
 rails4 対応してみる
+unicorn + nginx 対応もかけたら書く
